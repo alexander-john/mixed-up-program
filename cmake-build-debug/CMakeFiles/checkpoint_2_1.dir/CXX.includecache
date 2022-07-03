@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexanderjohn/Desktop/programming path/c++/starting out/work/chapter 2/programs/checkpoint 2.1/main.cpp
+iostream
+-
+
